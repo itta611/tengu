@@ -8,9 +8,9 @@
 
 <div align="center">
 
-# 🐧 pingu
+# 👺 tengu
 
-`ping` command implementation but with pingu ascii art
+`ping` command implementation but with tengu ascii art
 
 
 ![Language:Go](https://img.shields.io/static/v1?label=Language&message=Go&color=blue&style=flat-square)
